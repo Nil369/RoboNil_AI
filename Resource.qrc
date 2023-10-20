@@ -1,0 +1,27 @@
+<RCC>
+  <qresource prefix="resource">
+    <file>GUI/Images/hacking.gif</file>
+    <file>GUI/Images/hacking_1.gif</file>
+    <file>GUI/Images/Screenshot 2023-07-22 001053.png</file>
+    <file>GUI/Images/google_in_black_background_with_smokes_hd_google.jpg</file>
+    <file>GUI/Images/how-to-enable-youtube-dark-mode-on-pc-and-android-ios-1280x720.jpg</file>
+    <file>GUI/Images/ilustrasi-instagram-darkmode.jpg</file>
+    <file>GUI/Images/start.jpg</file>
+    <file>GUI/Images/AI.gif</file>
+    <file>GUI/Images/ai_1.avif</file>
+    <file>GUI/Images/Arc.gif</file>
+    <file>GUI/Images/Arc_1.gif</file>
+    <file>GUI/Images/Core_1.gif</file>
+    <file>GUI/Images/Enter.png</file>
+    <file>GUI/Images/exit - Copy.png</file>
+    <file>GUI/Images/Initializing system.gif</file>
+    <file>GUI/Images/Listening.gif</file>
+    <file>GUI/Images/Robo.png</file>
+    <file>GUI/Images/Robo_1.jpg</file>
+    <file>GUI/Images/Sound wave.gif</file>
+    <file>GUI/Images/start.jpg</file>
+    <file>GUI/Images/Start.png</file>
+    <file>GUI/Images/start_1.jpg</file>
+    <file>GUI/Images/start_2</file>
+  </qresource>
+</RCC>
