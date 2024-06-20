@@ -78,5 +78,4 @@ For questions or support, please open an issue or contact us at halderakash872@g
 
 ---
 
-**Robonil** - Simplifying Your Digital Life
-```
+**Robonil** - Simplifying Your Digital Life 👨🏻‍💻
